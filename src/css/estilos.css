@@ -1,0 +1,63 @@
+body {
+    font-family: 'Alkatra', cursive;
+    background-color: black;
+}
+
+.logo {
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+.imagem1 {
+    width: 550px;
+    height: 300px;
+
+}
+
+.imagem2 {
+    width: 550px;
+    height: 300px;
+}
+
+.imagem3 {
+    width: 550px;
+    height: 300px;
+}
+
+.imagem4 {
+    width: 550px;
+    height: 300px;
+}
+
+.icone {
+    width: 60px;
+}
+
+.icone1 {
+    width: 50px;
+    filter: invert(1);
+}
+
+p {
+
+    color: #ffffff;
+    text-align: center;
+}
+
+.titulo {
+    color: rgb(255, 255, 255);
+}
+
+.links {
+    color: rgb(255, 255, 255);
+}
+
+h2 {
+    text-align: center;
+}
+
+
+img {
+    margin: auto;
+    display: flex;
+}
